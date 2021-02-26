@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Comcast/gots"
+	"github.com/edgeware/gots"
 )
 
 var CableLabsEBPBytes = []byte{

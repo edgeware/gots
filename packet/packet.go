@@ -24,7 +24,7 @@ SOFTWARE.
 
 package packet
 
-import "github.com/Comcast/gots"
+import "github.com/edgeware/gots"
 
 const (
 	// PacketSize is the expected size of a packet in bytes

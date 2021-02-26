@@ -29,7 +29,7 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/Comcast/gots"
+	"github.com/edgeware/gots"
 )
 
 // cableLabsEbp is an encoder boundary point

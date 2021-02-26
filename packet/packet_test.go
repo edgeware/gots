@@ -29,7 +29,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/Comcast/gots"
+	"github.com/edgeware/gots"
 )
 
 func parseHexString(h string) *Packet {
